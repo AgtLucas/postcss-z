@@ -12,6 +12,7 @@
   },
   "keywords": [
     "PostCSS",
+    "postcss-plugin",
     "z-index",
     "css"
   ],
