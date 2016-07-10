@@ -2,7 +2,7 @@ const postcss = require('postcss')
 const expect = require('chai').expect
 const plugin = require('../')
 
-const test = (input, output, otps, done) => {
+const test = (input, output, opts, done) => {
   postcss([plugin(opts)]).process(input).then((result) => {
     expect(result.css).to.eql(output)
     expect(result.warnings()).to.be.empty
