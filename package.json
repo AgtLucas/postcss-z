@@ -1,0 +1,24 @@
+{
+  "name": "postcss-z",
+  "version": "1.0.0",
+  "description": "A PostCSS plugin to replace z with z-index.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgtLucas/postcss-z.git"
+  },
+  "keywords": [
+    "PostCSS",
+    "z-index",
+    "css"
+  ],
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/postcss-z/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/postcss-z#readme"
+}
