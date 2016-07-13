@@ -11,7 +11,7 @@
     "url": "git+https://github.com/AgtLucas/postcss-z.git"
   },
   "keywords": [
-    "PostCSS",
+    "postcss",
     "postcss-plugin",
     "z-index",
     "css"
