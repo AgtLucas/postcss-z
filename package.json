@@ -1,6 +1,6 @@
 {
   "name": "postcss-z",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A PostCSS plugin to replace z with z-index.",
   "main": "index.js",
   "scripts": {
